@@ -1,0 +1,2 @@
+# sample_system_lesson
+コンピューターシステム技術練習用
